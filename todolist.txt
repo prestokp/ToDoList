@@ -1,0 +1,4 @@
+mow yard,8,false
+grade papers,10,false
+wash car,6,false
+take daughter to zoo,7,false
